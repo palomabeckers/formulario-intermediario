@@ -2,11 +2,9 @@
 
 Trilha Explorer 🚀
 
-![preview](./.github/preview.png)
+![preview](./images/form-inter.png)
 
-💜 Projeto construído no evento Next Level Week da Rocketseat.
-
-🔗[Clique aqui para acessar](https://gksouza.github.io/nlw-esports-explorer/)
+💜 Desafio do Stage 03 - Formulário intermediário
 
 ## 🔰 Tecnologias
 
@@ -16,11 +14,11 @@ Trilha Explorer 🚀
 
 ## 📚 Meu aprendizado
 
-Através da NLW adquiri maiores e fascinantes conhecimentos sobre o HTML e CSS.
+Através da aulas do Stage 03 adquiri maiores e fascinantes conhecimentos sobre o HTML e CSS.
 Com uma didática leve e objetiva conheci brevemente sobre o Git e Github.
 
 ## 🤸‍♀️ Contato
 
-https://www.linkedin.com/in/gkos22/
+https://www.linkedin.com/in/palomabecker/
 
-e-mail: gkoliver2020@gmail.com
+e-mail: palomabeckers@hotmail.com
