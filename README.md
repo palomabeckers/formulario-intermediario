@@ -4,9 +4,10 @@
 Acesse o link do projeto em <strong>
 About
 
+💜 Desafio do Stage 03 - Formulário intermediário
+
 ![preview](./images/form-inter.png)
 
-💜 Desafio do Stage 03 - Formulário intermediário
 
 ## 🔰 Tecnologias
 
