@@ -1,7 +1,8 @@
 # Formulário intermediário
-Link do projeto disponível no link do "about"
 
-Trilha Explorer 🚀
+## Trilha Explorer 🚀
+Acesse o link do projeto em <strong>
+About
 
 ![preview](./images/form-inter.png)
 
